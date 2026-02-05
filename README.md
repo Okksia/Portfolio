@@ -26,6 +26,12 @@
 **TO-BE**
 ![Notifications TO_BE](./diagrams/notifications-service-request-to-be.png)
 
+### 3. Работа с заявкой по договору
+![Contract process](./diagrams/contract-application-process.png)
+
+### 4. Процесс продления подписки на обслуживание
+![Maintenance subscription](./diagrams/maintenance-subscription-process.png)
+
 ## 🏠 Кейсы & проекты
 Примеры моих ТЗ, а также реальные кейсы с собеседований (как я их решила).
 
