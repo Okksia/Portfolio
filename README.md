@@ -32,6 +32,12 @@
 ### 4. Процесс продления подписки на обслуживание
 ![Maintenance subscription](./diagrams/maintenance-subscription-process.png)
 
+### 5. Установка лицензионного ПО
+![Software installation](./diagrams/licensed-software-installation-process.png)
+
+### 6. Движение заявки
+![Flow](./diagrams/application-flow-process.png)
+
 ## 🏠 Кейсы & проекты
 Примеры моих ТЗ, а также реальные кейсы с собеседований (как я их решила).
 
