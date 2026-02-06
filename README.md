@@ -155,5 +155,6 @@ Python: структура + рефакторинг
 **Telegram:** @okssiaa  
 **Email:** anastasia-okolovitch@yandex.ru  
 **HH:** [Резюме](https://vladivostok.hh.ru/resume/3f7ac94bff0fbdd2990039ed1f33464f73434c)
+
 ----
 *Портфолио постоянно обновляется новыми кейсами и артефактами.*
