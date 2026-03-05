@@ -188,6 +188,9 @@ PDF статьи 1C → векторная база Pinecone
 - Естественный язык: "Отчет 5 марта 14:00"
 - n8n → OpenAI Chat Model → Google Calendar API
 - JSON-парсинг дат без кода
+### Workflow 
+Сообщение боту -> ИИ парсинг -> Google Calendar
+![calendar_agent](./diagrams/calendar_agent.png)
 
 ##  📞 Контакты
 
