@@ -176,6 +176,11 @@ Telegram бот ищет решения в PDF-базе знаний (RAG)
 - Telegram → n8n → Pinecone RAG → GPT-4o
 - Загрузка PDF знаний из Google Drive
 - Структурированные ответы: ПРОБЛЕМА/РЕШЕНИЕ
+### Workflow 
+RAG чат-бот: поиск решений в базе знаний 1C
+![1c_suport](./diagrams/1c_suport_agent.png)
+PDF статьи 1C → векторная база Pinecone
+![learning](./diagrams/learning.png)
 
 ### 📅 Персональный агент для ведения календаря (Google Calendar)  
 ### Описание:  
